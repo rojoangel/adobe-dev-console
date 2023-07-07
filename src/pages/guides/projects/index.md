@@ -53,7 +53,7 @@ If you believe you are seeing a *Read Only* tag in error, or want access to cert
 
 ## Delete a Project
 
-Deleting a project is **permanent** and will remove all entites contained within the project - APIs and services, credentials, and workspaces. You can delete a project by visiting the project overview page.
+Deleting a project is **permanent** and will remove all entities contained within the project - APIs and services, credentials, and workspaces. You can delete a project by visiting the project overview page.
 
 While most projects can be deleted, sometimes a project is related to an application you have published and, therefore, cannot be deleted. 
 
