@@ -6,7 +6,7 @@ All development work in Adobe Developer Console is done as part of a project. Th
 
 Projects are a common framework within enterprise and personal developer organizations. Projects created under an enterprise organization are owned by the organization and are visible to other organization members. In contrast, projects belonging to a developer organization are visible only to you.
 
-If you are a developer or a system administrator on multiple organizations, you can view the projects that are owned by those organizations. The projects you see on the Developer Console depends on the organization you have currently selected in the [org switcher](../getting-started.md#switching-between-your-organizations). Use the org switcher to view the organizations to which you belong to and easily switch between them.
+If you are a developer or a system administrator on multiple organizations, you can view the projects that are owned by those organizations. The projects you see on the Developer Console depend on the organization you have currently selected in the [org switcher](../getting-started.md#switching-between-your-organizations). Use the org switcher to view the organizations to which you belong to and easily switch between them.
 
 <InlineAlert slots="text"/>
 
